@@ -10,20 +10,15 @@ Este projeto acadêmico tem como objetivo o desenvolvimento de um sistema integr
 Desenvolver uma plataforma que permita a abertura, acompanhamento e encerramento de chamados.
 Implementar um chatbot com IA para triagem inicial e direcionamento automático dos chamados.
 Reduzir o tempo de resposta e melhorar a organização do suporte técnico.
-
 Fornecer relatórios detalhados para apoiar a gestão de equipes e o processo de melhoria contínua.
 
 
 ## 🛠️ Tecnologias Utilizadas
 
-C# / .NET (backend)
-
+ C# / .NET (backend)
  HTML, CSS e JavaScript (frontend web responsivo)
-
  SQL Server / MySQL (banco de dados)
-
  Git e GitHub (controle de versão)
-
  Integração com APIs de IA (chatbot e priorização)
 
 
