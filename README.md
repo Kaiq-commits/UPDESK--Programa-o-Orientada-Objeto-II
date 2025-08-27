@@ -52,3 +52,4 @@ dotnet run
 | 🔖 **SPRINT 2** | 07/04 - 27/04 |  |
 | 🔖 **SPRINT 3** | 05/05 - 25/05 |  |
 
+Documentos/Manual do Usuário.docx
