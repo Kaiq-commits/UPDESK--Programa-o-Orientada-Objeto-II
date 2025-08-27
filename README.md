@@ -26,11 +26,11 @@ Fornecer relatórios detalhados para apoiar a gestão de equipes e o processo de
 
 ## 🛠️ Tecnologias Utilizadas
 
-*  C# / .NET (backend)
-* HTML, CSS e JavaScript (frontend web responsivo)
-* SQL Server / MySQL (banco de dados)
-* Git e GitHub (controle de versão)
-* Integração com APIs de IA (chatbot e priorização)
+*  C# / .NET (Backend)
+* HTML, CSS e JavaScript (Frontend Web Responsivo)
+* SQL Server / MySQL (Banco De Dados)
+* Git e GitHub (Controle De Versão)
+* Integração com APIs de IA (Chatbot e Priorização)
 
 
 ## 🚀 Instalação e Execução
@@ -51,5 +51,3 @@ dotnet run
 | 🔖 **SPRINT 1** | 10/03 - 30/03 |  |
 | 🔖 **SPRINT 2** | 07/04 - 27/04 |  |
 | 🔖 **SPRINT 3** | 05/05 - 25/05 |  |
-
-Documentos/Manual do Usuário.docx
