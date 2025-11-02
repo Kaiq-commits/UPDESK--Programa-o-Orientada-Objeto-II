@@ -52,7 +52,7 @@ Este documento detalha o cronograma do projeto, dividindo as tarefas por semana 
 
 ## 📂 Estrutura do Projeto <a id="estrutura-de-pastas"></a>
    
-- [Estrutura das pastas](https://github.com/JonatasSantos42/UpDesk_Jonatas/blob/main/Documentos/Estrutura%20das%20pastas.md)
+- [Estrutura das pastas](https://github.com/Kaiq-commits/UPDESK--Programa-o-Orientada-Objeto-II/blob/main/Git_Egydio/Estrutura%20das%20pastas.md)
 
 ---
 
