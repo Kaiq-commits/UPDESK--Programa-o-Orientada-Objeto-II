@@ -63,7 +63,7 @@ O UpDesk propõe uma solução inovadora com inteligência artificial integrada,
 
 ## ✅ DoR (Definition of Ready)
 
-- [DoR (Definition of Ready)](https://github.com/MateusTeod/UpDesk-PIM-4/blob/main/Dev%20planning/DoR%20(Definition%20of%20Ready).md)
+- [DoR (Definition of Ready)](https://github.com/Kaiq-commits/UPDESK--Programa-o-Orientada-Objeto-II/blob/main/Git_Egydio/DoR%20(Definition%20of%20Ready).md)
 
 ---
 
