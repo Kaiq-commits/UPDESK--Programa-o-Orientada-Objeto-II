@@ -77,7 +77,7 @@ Este documento detalha o cronograma do projeto, dividindo as tarefas por semana 
 
 ## ✅ DoR (Definition of Ready)
 
-- [DoR (Definition of Ready)](https://github.com/JonatasSantos42/UpDesk_Jonatas/blob/main/Documentos/DoR%20(Definition%20of%20Ready).md)
+- [DoR (Definition of Ready)](https://github.com/Kaiq-commits/UPDESK--Programa-o-Orientada-Objeto-II/blob/main/Git_Egydio/DoR%20(Definition%20of%20Ready).md)
 
 ---
 
