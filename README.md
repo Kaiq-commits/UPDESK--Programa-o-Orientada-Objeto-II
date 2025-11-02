@@ -71,7 +71,7 @@ Este documento detalha o cronograma do projeto, dividindo as tarefas por semana 
 # 👨🏾‍💻 Equipe <a id="equipe"></a>
 | Nome                    | Papel                  | GitHub                                  | LinkedIn                                             |
 | ----------------------- | ---------------------- | --------------------------------------- | ---------------------------------------------------- |
-| Kaique Batista da Silva | DEV | [GitHub](https://github.com/JonatasSantos42/)| [LinkedIn](https://www.linkedin.com/in/jonatas-dos-santos-souza/) |
+| Kaique Batista da Silva | DEV | [GitHub](https://github.com/Kaiq-commits)| [LinkedIn](https://www.linkedin.com/in/kaique-silva-4569b3192/) |
 
 ---
 
