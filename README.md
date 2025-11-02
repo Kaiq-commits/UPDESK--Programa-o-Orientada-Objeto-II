@@ -42,7 +42,7 @@ Este documento detalha o cronograma do projeto, dividindo as tarefas por semana 
 | **02/09/2025** | **Desenvolvimento Web (Front-End)** | Desenvolvimento do painel de triagem.<br>Desenvolvimento do card de dados do chamado.<br>Desenvolvimento do card de dados do chamado na triagem.<br>Desenvolvimento do card para aprovar ações da IA.<br>Desenvolvimento do card de prioridade do chamado.<br>Desenvolvimento do card de confirmação de transferência de chamado.<br>Desenvolvimento do card de feedback de transferência de chamado.<br>Implementação do painel de visualização de chamados.<br>Desenvolvimento do card de informações dos chamados. |
 ---
 
-### [Clique aqui para o cronograma](https://github.com/JonatasSantos42/UpDesk_Jonatas/blob/main/Documentos/sprintPlanning.md)
+### [Clique aqui para o cronograma](https://github.com/Kaiq-commits/UPDESK--Programa-o-Orientada-Objeto-II/blob/main/Git_Egydio/sprintPlanning.md)
 
 ## Tecnologias Utilizadas <a id="tecnologias-utilizadas"></a>
 
