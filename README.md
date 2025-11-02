@@ -21,7 +21,7 @@ O UpDesk propõe uma solução inovadora com inteligência artificial integrada,
 ---
 
 ## BACKLOG DE PRODUTO <a id="backlog-do-produto"></a>
-- [Backlog do UpDesk](https://github.com/mancijo/UpDesk/blob/main/Analysis%20Planning/BacklogUpDesk.md)
+- [Backlog do UpDesk](https://github.com/Kaiq-commits/UPDESK--Programa-o-Orientada-Objeto-II/blob/main/Git_Egydio/BACKLOG.md)
 
 ---
 
