@@ -18,6 +18,10 @@ O **UpDesk** tem como objetivo resolver uma dor comum de empresas e setores de T
 Muitas vezes, usuários enfrentam demora no atendimento devido à falta de organização, categorização incorreta ou sobrecarga de analistas.
 O UpDesk propõe uma solução inovadora com inteligência artificial integrada, permitindo a sugestão automática de soluções, categorização de chamados e direcionamento para o nível adequado de suporte.
 
+## 📂 Diagrama
+
+- [Diagrama UpDesk](https://github.com/Kaiq-commits/UPDESK--Programa-o-Orientada-Objeto-II/blob/main/Git_Egydio/UML_upDesk.asta)
+
 ---
 
 ## BACKLOG DE PRODUTO <a id="backlog-do-produto"></a>
