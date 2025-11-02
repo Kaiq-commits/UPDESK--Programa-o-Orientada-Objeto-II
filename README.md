@@ -83,7 +83,7 @@ Este documento detalha o cronograma do projeto, dividindo as tarefas por semana 
 
 ## ✅ DoD (Definition of Done)
 
-- [DoD (Definition of Done)](https://github.com/JonatasSantos42/UpDesk_Jonatas/blob/main/Documentos/DOD.md)
+- [DoD (Definition of Done)](https://github.com/Kaiq-commits/UPDESK--Programa-o-Orientada-Objeto-II/blob/main/Git_Egydio/DOD.md)
 
 ---
 
