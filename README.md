@@ -58,7 +58,7 @@ Este documento detalha o cronograma do projeto, dividindo as tarefas por semana 
 
 ## ▶️ Como Executar, Usar e Testar o Projeto <a id="como-rodar-o-projeto"></a>
 
-- [Como executar o projeto](https://github.com/JonatasSantos42/UpDesk_Jonatas/blob/main/Documentos/Executar%20projeto.md)
+- [Como executar o projeto](https://github.com/Kaiq-commits/UPDESK--Programa-o-Orientada-Objeto-II/blob/main/Git_Egydio/Executar%20projeto.md)
 
 ---
 
