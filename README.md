@@ -30,7 +30,7 @@ O UpDesk propõe uma solução inovadora com inteligência artificial integrada,
 ---
 
 ## CRONOGRAMA DE EVOLUÇÃO <a id="cronograma-de-evolucao"></a>
-- [Cronograma de evolução UpDesk](https://github.com/Kaiq-commits/UPDESK--Programa-o-Orientada-Objeto-II/blob/main/Cronograma%20de%20Evolu%C3%A7%C3%A3o.md)
+- [Cronograma de evolução UpDesk](https://github.com/Kaiq-commits/UPDESK--Programa-o-Orientada-Objeto-II/blob/main/Git_Egydio/Cronograma%20de%20Evolucao.md)
 
 ---
 
